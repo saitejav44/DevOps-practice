@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ChatIn_original</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="username">UserName</string>
+    <string name="log_out">Log Out</string>
+    <string name="account_settings">Account Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_status">Change Status</string>
+    <string name="status">Status</string>
+    <string name="user_name">User Name</string>
+    <string name="change_image">Change Image</string>
+    <string name="friends_page">Friends Page</string>
+    <string name="last_seen">Last Seen</string>
+    <string name="display_name">Display Name</string>
+</resources>

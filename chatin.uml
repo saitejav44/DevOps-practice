@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.example.chatin.chatin</OriginalElement>
+  <nodes>
+    <node x="0.0" y="75.0">com.example.chatin.chatin.SectionsPagerAdaptor</node>
+    <node x="370.0" y="450.0">com.example.chatin.chatin.test</node>
+    <node x="0.0" y="0.0">com.example.chatin.chatin.FirebaseMessagingService</node>
+    <node x="479.0" y="525.0">com.example.chatin.chatin.ChatIn</node>
+    <node x="205.0" y="300.0">com.example.chatin.chatin.startActivity</node>
+    <node x="442.0" y="150.0">com.example.chatin.chatin.FriendsFragment</node>
+    <node x="402.0" y="300.0">com.example.chatin.chatin.UsersActivity</node>
+    <node x="0.0" y="375.0">com.example.chatin.chatin.ChatsFragment</node>
+    <node x="0.0" y="225.0">com.example.chatin.chatin.ProfileActivity</node>
+    <node x="189.0" y="450.0">com.example.chatin.chatin.BuildConfig</node>
+    <node x="213.0" y="225.0">com.example.chatin.chatin.ExampleUnitTest</node>
+    <node x="253.0" y="75.0">com.example.chatin.chatin.SettingsActivity</node>
+    <node x="0.0" y="150.0">com.example.chatin.chatin.RegisterActivity</node>
+    <node x="0.0" y="525.0">com.example.chatin.chatin.GetTimeAgo</node>
+    <node x="173.0" y="525.0">com.example.chatin.chatin.Messages</node>
+    <node x="285.0" y="0.0">com.example.chatin.chatin.ExampleInstrumentedTest</node>
+    <node x="197.0" y="375.0">com.example.chatin.chatin.LoginActivity</node>
+    <node x="133.0" y="600.0">com.example.chatin.chatin.Conv</node>
+    <node x="221.0" y="150.0">com.example.chatin.chatin.RequestsFragment</node>
+    <node x="426.0" y="225.0">com.example.chatin.chatin.MessageAdapter</node>
+    <node x="0.0" y="600.0">com.example.chatin.chatin.Users</node>
+    <node x="394.0" y="375.0">com.example.chatin.chatin.MainActivity</node>
+    <node x="0.0" y="450.0">com.example.chatin.chatin.ChatActivity</node>
+    <node x="330.0" y="525.0">com.example.chatin.chatin.Friends</node>
+    <node x="0.0" y="300.0">com.example.chatin.chatin.StatusActivity</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.6876923076923077" x="305.0" y="305.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
